@@ -1,0 +1,6 @@
+catboost_info/
+notebooks/catboost_info/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
